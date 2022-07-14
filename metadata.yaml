@@ -1,0 +1,41 @@
+_repo: Memorials-of-Human-Superstition-being-a-paraphrase-and-commentary-on-the-Historia-Flagellanti__68362
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lolme, Jean Louis de
+    aliases:
+    - Lolme, J. L. de (Jean Louis)
+    - De Lolme, Jean Louis
+    - Delolme, John Lewis
+    - Lolme, M. de (Jean Louis)
+    birthdate: 1740
+    deathdate: 1806
+    gutenberg_agent_id: '54741'
+    url: http://www.gutenberg.org/2009/agents/54741
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean-Louis_de_Lolme
+    - https://fr.wikipedia.org/wiki/Jean_Louis_Delolme
+description: ''
+gutenberg_issued: '2022-06-21'
+identifiers:
+  gutenberg: '68362'
+language: en
+pgterms:marc904: https://archive.org/details/memorialsofhuman00lolm
+pgterms:marc905: 20200928095452delolme
+pgterms:marc906: '1784'
+pgterms:marc907: UK
+production_note: Turgut Dincer, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: UK :Printed for G. Robinson,1784.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Flagellants'
+- !lcsh 'Boileau, Jacques, 1635-1716. Historia flagellantium'
+- GITenberg
+title: "Memorials of Human Superstition\r\nbeing a paraphrase and commentary on the\
+  \ Historia Flagellantium of the Abbé Boileau, Doctor of the Sorbonne"
+url: http://www.gutenberg.org/ebooks/68362
