@@ -1,5 +1,8 @@
 _repo: Memorials-of-Human-Superstition-being-a-paraphrase-and-commentary-on-the-Historia-Flagellanti__68362
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68362-h/images/cover.jpg
 creator:
   author:
     agent_name: Lolme, Jean Louis de
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Louis_de_Lolme
     - https://fr.wikipedia.org/wiki/Jean_Louis_Delolme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68362#Memorials-of-Human-Superstition-being-a-paraphrase-and-commentary-on-the-Historia-Flagellanti_
 gutenberg_issued: '2022-06-21'
 identifiers:
   gutenberg: '68362'
